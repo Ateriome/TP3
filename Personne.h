@@ -24,5 +24,5 @@ private:
     std::string m_profession;
     std::string m_adresse;
 };
-
+#include "Personne.cpp"
 #endif
